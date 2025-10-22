@@ -1,0 +1,2 @@
+run right the click of the mouse - git bash:
+Type:  bash create_project_structure.sh
