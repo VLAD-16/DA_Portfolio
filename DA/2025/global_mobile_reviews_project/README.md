@@ -8,7 +8,7 @@ Stack used: **Python + SQL + Tableau**.
 
 ## 🔧 Technologies
 - **Python:** pandas, numpy, seaborn, matplotlib, scipy, nltk/vaderSentiment
-- **SQL:** PostgreSQL / BigQuery
+- **SQL:** ???   _________________ PostgreSQL / BigQuery
 - **Tableau:** for interactive dashboards
 - **GitHub:** documentation and code
 - **VS Code / Jupyter:** development environment
@@ -60,8 +60,8 @@ reports/ → brief report and presentation
 ---
 
 ## ✍️ Author
-**[Your Name]**
+**Vladislav Goncharuk**
 Data Analyst | Python · SQL · Tableau
-📧 [email@email.com] | 🌐 [linkedin.com/in/your_name]
+📧 [Goncharuk321@gmail.com] | 🌐 [linkedin.com/in/goncharuk-vlad]
 
 ---

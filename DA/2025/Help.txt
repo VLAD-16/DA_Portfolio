@@ -1,2 +1,14 @@
+1.Create folders:
 run right the click of the mouse - git bash:
 Type:  bash create_project_structure.sh
+
+2. download dataset:
+kaggle datasets download -d <dataset-slug> -p data/ --unzip
+# приклад:
+kaggle datasets download -d deepcontractor/global-mobile-reviews-dataset-2025-edition -p data/ --unzip
+# https://www.kaggle.com/datasets/mohankrishnathalla/mobile-reviews-sentiment-and-specification
+kaggle datasets download -d mohankrishnathalla/mobile-reviews-sentiment-and-specification -p data/ --unzip
+
+Здається зрозумів. Зробив все, крім останнього кроку. Уточню. Якщо датасет знаходиться тут: https://www.kaggle.com/datasets/mohankrishnathalla/mobile-reviews-sentiment-and-specification
+То команда має бути така: kaggle datasets download -d mohankrishnathalla/mobile-reviews-sentiment-and-specification -p data/ --unzip
+Вірно?
